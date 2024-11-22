@@ -8,7 +8,7 @@
    
     <Cabecalho />
 
-    <div class="flex-1 flex max-w-7x1 mx-auto w-full p-5">
+    <div class="flex-1 flex gap-5 max-w-7x1 mx-auto w-full p-5">
         <main class="flex-1">
             <slot></slot>
         </main>
